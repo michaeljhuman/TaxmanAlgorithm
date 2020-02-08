@@ -9,6 +9,7 @@ You add that number to your score
 The "taxman" gets all the factors of that number
 When you can no longer choose valid numbers, the taxman gets the numbers not yet chosen
 
+```
 Sample:
 Algorithm: tm3; n: 25
 myChoice:  23
@@ -24,3 +25,4 @@ myChoice:  18
 Player took:  [23, 25, 15, 21, 14, 22, 20, 16, 12, 18]
 Taxman took:  [1, 5, 3, 7, 2, 11, 10, 4, 8, 6, 9, 13, 17, 19, 24]
 MyScore: 186; Taxman: 139; Differences: 47
+```
