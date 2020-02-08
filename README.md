@@ -1,7 +1,9 @@
 # TaxmanAlgorithm
 Some taxman game algorithms compared.  Code is Python
 
-I created a number of algorithms to play the "taxman game"
+I created a number of algorithms to play the "taxman game".  tm2 is the best heuristic I know of.  
+
+tm4 is a depth first search.  Unsure if tm4 makes optimal choices, or is bug free.  tm4 is definitely not optimized, and dramatically increases in computation time as n increases ( could be as bad as "factorial" time.)  I have never run it for greater than n=30.
 
 Taxman is a very simple game.  
 You choose a number, with more than one factor besides itself, from a set of natural numbers 1 to N
